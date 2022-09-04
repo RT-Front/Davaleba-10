@@ -8,7 +8,4 @@ const personalInfo = {
     death: 'zero death',
 }
 
-
-
-
-console.log(personalInfo);
+console.log(personalInfo)
