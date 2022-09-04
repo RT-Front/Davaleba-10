@@ -3,8 +3,8 @@ const personalInfo = {
     lastName: 'Tsetskhladze',
     age: 22,
     marriage: 'trapped',
-    job: 'gamer :D, for now!',
-    kills: 'alot',
+    job: 'დროებით უმუშევარი :D',
+    killsInGames: 'uncountable',
     death: 'zero death',
 }
 
