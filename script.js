@@ -11,4 +11,4 @@ const personalInfo = {
 
 
 
-console.log(personalInfo)
+console.log(personalInfo);
